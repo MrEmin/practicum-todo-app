@@ -1,3 +1,22 @@
+# Practicum Todo-App
+
+This is my second assignment within the scope of FMSS Bilişim Front-end Practicum program.
+[Live Site](https://practicum-todo-app.netlify.app/)
+
+## About This Assignment:
+- I used the useState, useEffect hooks.
+- I provided data communication between components using props.
+
+## Features
+- Add new todos.
+- Delete todos.
+- Mark completed todos as complete.
+- Mark all todos as complete or not complete.
+- Filter todos by status.
+
+## Screenshot
+![output of the code](https://github.com/MrEmin/practicum-todo-app/blob/main/public/todo-app.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
